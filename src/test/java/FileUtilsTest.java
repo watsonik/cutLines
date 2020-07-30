@@ -14,7 +14,7 @@ public class FileUtilsTest {
     private static final String INVALID_PATH = "src/main/resources/nciowdu.txt";
     private static final String VALID_PATH = "src/main/resources/testsTable.txt";
     private static final String RESULT_PATH = "src/main/resources/testsTable_res.txt";
-    public static final String ORIGIN_PATH = "src/main/resources/testsTableOriginal.txt";
+    private static final String ORIGIN_PATH = "src/main/resources/testsTableOriginal.txt";
 
     @BeforeEach
     public void setUp() {
