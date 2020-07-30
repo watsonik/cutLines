@@ -1,0 +1,14 @@
+case One Book Low Book Rating Product Date pairings
+5 Hd | STB/Other LT | ST POL Rating L|C|C LM 5
+9 Hd LT GTD Rating L|C|C LM 1
+7 All All GTD Rating L|C|C | Index LM 3
+10 Hd | STB/Other | TTd LT | ST POL Rating L|C|C Expected 1
+4 Hd | TTd LT POL Rating L|C|C Expected 5
+2 Hd | STB/Other LT | ST POL Rating L|C|C LM 5
+3 Hd LT GTD Rating L|C|C LM 1
+1 All All GTD Rating L|C|C | Index LM 3
+8 Hd | STB/Other | TTd LT | ST POL Rating L|C|C Expected 1
+11 Hd | TTd LT POL Rating L|C|C Expected 5
+5 Hd LT GTD Rating L|C|C LM 5
+13 Hd | STB | TTd LT | ST POL L|C|C Expected 1
+7 Hd | Other LT | ST POL Rating L|C|C LM 1
